@@ -115,6 +115,8 @@ The objective of this project is to build a **reliable, scalable, and secure net
 
 
 ##   Topology
+topology.png
+
 
 
 ## 📊 Key Learning Outcomes
