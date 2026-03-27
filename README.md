@@ -111,8 +111,11 @@ The objective of this project is to build a **reliable, scalable, and secure net
 * DHCP IP allocation checked
 * SSH and Telnet remote login tested
 * Traceroute used for path verification
+  
 
----
+
+##   Topology
+
 
 ## 📊 Key Learning Outcomes
 
